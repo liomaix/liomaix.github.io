@@ -1,0 +1,27 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Lionel Sopgoui"
+  favicon: favicon.png
+  twitter-card: true
+  navbar:
+    right:
+      - icon: github
+        href: https://github.com/liomaix
+      - icon: mortarboard-fill
+        href: https://scholar.google.com/citations?user=qSIiHM4AAAAJ&hl=en
+      - icon: twitter
+        href: https://twitter.com/liomaix
+      - icon: linkedin
+        href: https://uk.linkedin.com/in/lionel-sopgoui
+      - icon: envelope
+        href: mailto:sopgoui@lpsm.paris
+
+format:
+  html:
+    theme: cosmo
+    toc: true
+
+editor: visual

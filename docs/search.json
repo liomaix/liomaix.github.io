@@ -1,0 +1,72 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Lionel Sopgoui",
+    "section": "",
+    "text": "I am Lionel Sopgoui, PhD student in Mathematical Finance, at LPSM of Université Paris Cité (in the Financial and Actuarial Mathematics, Numerical Probability team), Department of Mathematics of Imperial College London (in the Mathematical Finance team) and Risk division at BPCE S.A. (in model validation team). My thesis work revolves around Applications of Probability and Stochastic Control in Economic Modelling, Climate transition risk and Credit Risk. I am co-advised by Jean-François Chassagneux, Antoine (Jack) Jacquier and Smail Ibbou."
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Lionel Sopgoui",
+    "section": "",
+    "text": "I am Lionel Sopgoui, PhD student in Mathematical Finance, at LPSM of Université Paris Cité (in the Financial and Actuarial Mathematics, Numerical Probability team), Department of Mathematics of Imperial College London (in the Mathematical Finance team) and Risk division at BPCE S.A. (in model validation team). My thesis work revolves around Applications of Probability and Stochastic Control in Economic Modelling, Climate transition risk and Credit Risk. I am co-advised by Jean-François Chassagneux, Antoine (Jack) Jacquier and Smail Ibbou."
+  },
+  {
+    "objectID": "index.html#publications",
+    "href": "index.html#publications",
+    "title": "Lionel Sopgoui",
+    "section": "📄 Publications",
+    "text": "📄 Publications\n\n2021\nLionel Sopgoui. “Les essais de Paukémil, l’intrus universel,” Books on demand, 2021."
+  },
+  {
+    "objectID": "index.html#presentations",
+    "href": "index.html#presentations",
+    "title": "Lionel Sopgoui",
+    "section": "🌍 Presentations",
+    "text": "🌍 Presentations\n\n2023\nLondon/Oxford/Warwick Financial Mathematics Workshop, 12-13th July, “Diffusion of carbon price in credit portfolio through macroeconomic factors,” King’s College London, London, England.\n\nMathRisk Conference on Numerical Methods in Finance, 14-16th June, “Propagation of carbon tax in credit portfolio through macroeconomic factors,” University of Udine, Udine, Italy.\n\n\n\nSIAM Conference on Financial Mathematics and Engineering (FM23), 6-9th June, “Propagation of carbon tax in credit portfolio through macroeconomic factors,” Philadelphia, Pennsylvania, U.S.\n\n\nGroupe de travail des thésards du LPSM, 30th May, “Propagation of carbon tax in credit portfolio through macroeconomic factors,” Sorbonne Université, Paris, France.\nQUANTITATIVE FINANCE Workshop 2023, 20-22th March, “Diffusion of carbon price in credit portfolio through macroeconomic factors,” Università di Cassino, Gaeta, Italy.\n\n\n2022\nLondon-Paris Bachelier Workshop (6th edition), 15-16th September, “Diffusion of carbon price in a credit portfolio through macroeconomic factors,” Institut Henri Poincaré, Paris, France."
+  },
+  {
+    "objectID": "index.html#teaching",
+    "href": "index.html#teaching",
+    "title": "Lionel Sopgoui",
+    "section": "💡 Teaching",
+    "text": "💡 Teaching\nI worked as a teaching assistant on the following courses:\n\nFinancial mathematics at ENSAE Paris: the first year of a master’s degree students in Introduction to financial derivatives, Valuation in the financial markets, Pricing by tree, Stochastic calculus, Black & Scholes model."
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Lionel Sopgoui",
+    "section": "🎓 Education",
+    "text": "🎓 Education\n\n\nPhD in Mathematical Finance\nUniversité Paris Cité/Imperial College London\nAdvisors: Jean-François Chassagneux, Antoine (Jack) Jacquier and Smail Ibbou\n\n\nParis, France\nSeptember 2021 - August 2024\n\n\n\nInvestigation of Bayesian optimisation for expensive-to-evaluate black-box functions.\nApplication to computer simulators and physical experiments in engineering to find optimal active blowing strategies to maximise drag reduction.\n\n\n\n\nM.S. in Financial Mathematics: Statistics and Finance\nEcole Polytechnique - ENSAE Paris\n\n\nPalaiseau, France\nSeptember 2019 - December 2020\n\n\n\nThesis: Machine Learning for Finance\n\nCourses: Interest rates models, Algorithmic trading, Derivatives, Advanced Machine Learning, Portfolio modelling, financial econometrics, GARCH and stochastic volatility models, Duration Models, etc.\n\n\n\n\nEngineering Degree in Statistical Modelling and Applications\nTelecom SudParis\n\n\nEvry, France\nSeptember 2017 - December 2020\n\n\n\nThesis: Machine Learning for Finance\n\nCourses: Probability, Statistic and data analysis, Optimization, Data mining, Stochastic process, Economic Modelling, Microwave, Data networks, Web architectures and applications, Humanities, etc.\n\n\n\n\nBSc in Mathematics and Computer Science\nNational Advanced School of Engineering\n\n\nYaounde, Cameroon\nSeptember 2012 - July 2015\n\n\n\nCourses: Probability, Statistics, Electromagnetism, Mechanics, General, linear and multilinear algebra, Real and vector analysis, Numerical analysis, Electro-kinetics, Geometric and wave optics, Statics, Database, Object-oriented programming, etc."
+  },
+  {
+    "objectID": "index.html#projects",
+    "href": "index.html#projects",
+    "title": "Lionel Sopgoui",
+    "section": "🏆 Projects",
+    "text": "🏆 Projects\n\nTrading Algorithms on Stocks (via IBKR API) and on Cryptos (via Binance API) The aim here is to build statistical arbitrage strategies on different markets, implement them in Python, and apply them to Interactives Brokers.\nDeep and Reinforcement Learning for Black-Scholes Options Pricing and Hedging Here, we have used the new Deep and Reinforcement learning tools to calculate the value of vanilla options and the associated hedging strategies.\nCorrelation between economic conditions and stock market profits (Python) Using simple statistical analyses (linear regression), we have tried to verify that stock markets (S&P500) are correlated with economic indicators (inflation, unemployment rate, interest rate).\nStatistical inference analysis and the ML models on DAX and EURO STOXX Futures The aim here was to build trading strategies using machine learning to build trading strategies."
+  },
+  {
+    "objectID": "index.html#resume",
+    "href": "index.html#resume",
+    "title": "Lionel Sopgoui",
+    "section": "💾 Resume",
+    "text": "💾 Resume\n\nCV"
+  },
+  {
+    "objectID": "index.html#hobbies",
+    "href": "index.html#hobbies",
+    "title": "Lionel Sopgoui",
+    "section": "🎳 Hobbies",
+    "text": "🎳 Hobbies\n\nRegular runner and tennis player.\nWriter and philosopher.\nFan of 🏀basketball (Golden State Warriors), 🎾tennis (Novak Djokovic) and 🚴‍♀️cycling.\nTraveler 🧳."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
+  }
+]

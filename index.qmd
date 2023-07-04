@@ -1,0 +1,120 @@
+## 👋 About
+::: {layout-ncol=2}
+![](profile.jpg)
+
+I am Lionel Sopgoui, PhD student in Mathematical Finance, at [LPSM](https://www.lpsm.paris/) of Université Paris Cité (in the Financial and Actuarial Mathematics, Numerical Probability team), [Department of Mathematics](https://www.imperial.ac.uk/mathematical-finance/) of Imperial College London (in the Mathematical Finance team)  and [Risk division](https://groupebpce.com/en/the-group/organization) at BPCE S.A. (in model validation team). **My thesis work revolves around Applications of Probability and Stochastic Control in Economic Modelling, Climate transition risk and Credit Risk.** I am co-advised by [Jean-François Chassagneux](https://perso.lpsm.paris/~chassagneux/), [Antoine (Jack) Jacquier](https://jackantoinejacquie.wixsite.com/jacquier) and [Smail Ibbou](https://www.linkedin.com/in/smail-ibbou-31a73b5/).
+:::
+
+
+## 📄 Publications
+
+#### 2021
+
+**Lionel Sopgoui**. "[Les essais de Paukémil, l'intrus universel](https://www.bod.fr/librairie/les-essais-de-paukemil-lionel-sopgoui-9782322274079)," _Books on demand_, 2021.
+
+## 🌍 Presentations
+
+#### 2023
+
+**[London/Oxford/Warwick Financial Mathematics Workshop](https://www.kcl.ac.uk/events/londonoxfordwarwick-financial-mathematics-workshop-1)**, 12-13th July, "*Diffusion of carbon price in credit portfolio through macroeconomic factors,*" King's College London, London, England.
+
+<del>**[MathRisk Conference on Numerical Methods in Finance](https://mathrisk2023.sciencesconf.org/)**, 14-16th June, "*Propagation of carbon tax in credit portfolio through macroeconomic factors,*" University of Udine, Udine, Italy.</del>
+<br>
+
+<del>**[SIAM Conference on Financial Mathematics and Engineering (FM23)](https://www.siam.org/conferences/cm/conference/fm23)**, 6-9th June, "*Propagation of carbon tax in credit portfolio through macroeconomic factors,*" Philadelphia, Pennsylvania, U.S.</del>
+<br>
+
+**[Groupe de travail des thésards du LPSM](https://www.lpsm.paris/seminaires/gtt/index)**, 30th May, "*Propagation of carbon tax in credit portfolio through macroeconomic factors,*" Sorbonne Université, Paris, France.
+
+**[QUANTITATIVE FINANCE Workshop 2023](https://qfw2023.unicas.it/)**, 20-22th March, "*Diffusion of carbon price in credit portfolio through macroeconomic factors,*" Università di Cassino, Gaeta, Italy.
+
+#### 2022
+
+**[London-Paris Bachelier Workshop (6th edition)](http://www.bachelier-paris.fr/london-paris-bachelier-workshop/)**, 15-16th September, "*Diffusion of carbon price in a credit portfolio through macroeconomic factors,*" Institut Henri Poincaré, Paris, France.
+  
+## 💡 Teaching
+
+I worked as a teaching assistant on the following courses:  
+
+ - **Financial mathematics at [ENSAE Paris](https://www.ensae.fr/)**: the first year of a master’s degree students in *Introduction to financial derivatives, Valuation in the financial markets, Pricing by tree, Stochastic calculus, Black & Scholes model*.  
+
+##  🎓 Education
+
+::: {.d-flex .justify-content-between}
+::: {}
+**PhD in Mathematical Finance**  
+[Université Paris Cité/Imperial College London](https://u-paris.fr/)  
+Advisors: [Jean-François Chassagneux](https://perso.lpsm.paris/~chassagneux/), [Antoine (Jack) Jacquier](https://jackantoinejacquie.wixsite.com/jacquier) and [Smail Ibbou](https://www.linkedin.com/in/smail-ibbou-31a73b5/)  
+:::
+::: {.text-end}
+Paris, France  
+September 2021 - August 2024  
+:::
+:::
+- Investigation of Bayesian optimisation for expensive-to-evaluate black-box functions.
+- Application to computer simulators and physical experiments in engineering to find optimal active blowing strategies to maximise drag reduction. 
+\
+
+::: {.d-flex .justify-content-between}
+::: {}
+**M.S. in Financial Mathematics: Statistics and Finance**  
+[Ecole Polytechnique - ENSAE Paris](http://www.master-statistique-finance.com/IP_Paris/)  
+:::
+::: {.text-end}
+Palaiseau, France   
+September 2019 - December 2020  
+:::
+:::
+- Thesis: *Machine Learning for Finance*   
+- Courses: Interest rates models, Algorithmic trading, Derivatives, Advanced Machine Learning, Portfolio modelling, financial econometrics, GARCH and stochastic volatility models, Duration Models, etc.
+\
+
+::: {.d-flex .justify-content-between}
+::: {}
+**Engineering Degree in Statistical Modelling and Applications**  
+[Telecom SudParis](https://www.exeter.ac.uk)  
+:::
+::: {.text-end}
+Evry, France  
+September 2017 - December 2020  
+:::
+:::
+- Thesis: *Machine Learning for Finance*   
+- Courses: Probability, Statistic and data analysis, Optimization, Data mining, Stochastic process, Economic Modelling, Microwave, Data networks, Web architectures and applications, Humanities, etc.
+\
+
+::: {.d-flex .justify-content-between}
+::: {}
+**BSc in Mathematics and Computer Science**  
+[National Advanced School of Engineering](https://polytechnique.cm/)  
+:::
+::: {.text-end}
+Yaounde, Cameroon  
+September 2012 - July 2015  
+:::
+:::
+- Courses: Probability, Statistics, Electromagnetism, Mechanics, General, linear and multilinear algebra, Real and vector analysis, Numerical analysis, Electro-kinetics, Geometric and wave optics, Statics, Database, Object-oriented programming, etc.    
+
+
+## 🏆 Projects
+
+- **Trading Algorithms on Stocks (via IBKR API) and on Cryptos (via Binance API)** The aim here is to build statistical arbitrage strategies on different markets, implement them in Python, and apply them to Interactives Brokers.
+
+- **Deep and Reinforcement Learning for Black-Scholes Options Pricing and Hedging** Here, we have used the new Deep and Reinforcement learning tools to calculate the value of vanilla options and the associated hedging strategies.
+
+- **Correlation between economic conditions and stock market profits (Python)** Using simple statistical analyses (linear regression), we have tried to verify that stock markets (S&P500) are correlated with economic indicators (inflation, unemployment rate, interest rate).
+
+- **Statistical inference analysis and the ML models on DAX and EURO STOXX Futures** The aim here was to build trading strategies using machine learning to build trading strategies.
+
+## 💾 Resume
+- [CV](/files/CV_Lionel_Sopgoui.pdf)
+
+## 🎳 Hobbies
+
+- Regular runner and tennis player.
+
+- Writer and philosopher.
+
+- Fan of 🏀basketball (Golden State Warriors), 🎾tennis (Novak Djokovic) and 🚴‍♀️cycling.
+
+- Traveler 🧳.
