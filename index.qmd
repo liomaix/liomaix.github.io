@@ -16,6 +16,9 @@ I am Lionel Sopgoui, PhD student in Mathematical Finance, at [LPSM](https://www.
 
 #### 2023
 
+**[European Summer School in Financial Mathematics](https://www.tudelft.nl/en/events/2023/eemcs/diam/finance-summer-school-2023)**, 04-08th September, "*Propagation of carbon taxes in credit portfolio through macroeconomic factors,*" Delft University of Technology, Delft, The Netherlands.
+
+
 **[London/Oxford/Warwick Financial Mathematics Workshop](https://www.kcl.ac.uk/events/londonoxfordwarwick-financial-mathematics-workshop-1)**, 12-13th July, "*Diffusion of carbon price in credit portfolio through macroeconomic factors,*" King's College London, London, England.
 
 <del>**[MathRisk Conference on Numerical Methods in Finance](https://mathrisk2023.sciencesconf.org/)**, 14-16th June, "*Propagation of carbon tax in credit portfolio through macroeconomic factors,*" University of Udine, Udine, Italy.</del>
