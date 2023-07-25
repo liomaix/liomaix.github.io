@@ -8,6 +8,10 @@ I am Lionel Sopgoui, PhD student in Mathematical Finance, at [LPSM](https://www.
 
 ## 📄 Publications
 
+#### 2023
+
+**Géraldine Bouveret, Jean-François Chassagneux, Smail Ibbou, Antoine Jacquier, Lionel Sopgoui**. "[Propagation of carbon taxes in credit portfolio through macroeconomic factors](https://www.ssrn.com/abstract=4518564)," _SSRN=4518564 / arXiv:2307.12695_, 2023.
+
 #### 2021
 
 **Lionel Sopgoui**. "[Les essais de Paukémil, l'intrus universel](https://www.bod.fr/librairie/les-essais-de-paukemil-lionel-sopgoui-9782322274079)," _Books on demand_, 2021.
