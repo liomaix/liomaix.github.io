@@ -19,7 +19,7 @@ I am Lionel Sopgoui, PhD student in Mathematical Finance, at [LPSM](https://www.
 ## 🌍 Presentations
 
 #### 2023
-**[8th Green Finance Research Advances](https://indico.cern.ch/event/1286716/)**, 13-14th December, "*Propagation of carbon taxes in credit portfolio through macroeconomic factors,*" Delft University of Technology, Paris, France.
+**[8th Green Finance Research Advances](https://indico.cern.ch/event/1286716/)**, 13-14th December, "*Propagation of carbon taxes in credit portfolio through macroeconomic factors,*" Auditorium - Banque de France, Paris, France.
 
 
 **[European Summer School in Financial Mathematics](https://www.tudelft.nl/en/events/2023/eemcs/diam/finance-summer-school-2023)**, 04-08th September, "*Propagation of carbon taxes in credit portfolio through macroeconomic factors,*" Delft University of Technology, Delft, The Netherlands.
