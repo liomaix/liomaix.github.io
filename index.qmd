@@ -10,6 +10,9 @@ I am Lionel Sopgoui, PhD student in Mathematical Finance, at [LPSM](https://www.
 
 #### 2023
 
+**Lionel Sopgoui**. "[Impact of climate transition on Loss Given Default with stochastic collaterals](https://www.ssrn.com/)," Working paper, 2023.
+
+
 **Géraldine Bouveret, Jean-François Chassagneux, Smail Ibbou, Antoine Jacquier, Lionel Sopgoui**. "[Propagation of carbon taxes in credit portfolio through macroeconomic factors](https://www.ssrn.com/abstract=4518564)," _SSRN=4518564 / arXiv:2307.12695_, 2023.
 
 #### 2021
@@ -17,6 +20,11 @@ I am Lionel Sopgoui, PhD student in Mathematical Finance, at [LPSM](https://www.
 **Lionel Sopgoui**. "[Les essais de Paukémil, l'intrus universel](https://www.bod.fr/librairie/les-essais-de-paukemil-lionel-sopgoui-9782322274079)," _Books on demand_, 2021.
 
 ## 🌍 Presentations
+
+#### 2024
+
+**[Séminaire Bachelier](http://www.bachelier-paris.fr/programme/)**, 9th February, "*Impact of climate transition on Loss Given Default with stochastic collaterals,*" Institut Henri Poincaré, Paris, France.
+  
 
 #### 2023
 **[8th Green Finance Research Advances](https://indico.cern.ch/event/1286716/)**, 13-14th December, "*Propagation of carbon taxes in credit portfolio through macroeconomic factors,*" Auditorium - Banque de France, Paris, France.
