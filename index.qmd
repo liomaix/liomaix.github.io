@@ -8,12 +8,13 @@ I am Lionel Sopgoui, PhD student in Mathematical Finance, at [LPSM](https://www.
 
 ## 📄 Publications
 
-#### 2023
+#### 2024
 
 **Lionel Sopgoui**. "[Impact of climate transition on Loss Given Default with stochastic collaterals](https://www.ssrn.com/)," Working paper, 2023.
 
+#### 2023
 
-**Géraldine Bouveret, Jean-François Chassagneux, Smail Ibbou, Antoine Jacquier, Lionel Sopgoui**. "[Propagation of carbon taxes in credit portfolio through macroeconomic factors](https://www.ssrn.com/abstract=4518564)," _SSRN=4518564 / arXiv:2307.12695_, 2023.
+**Géraldine Bouveret, Jean-François Chassagneux, Smail Ibbou, Antoine Jacquier, Lionel Sopgoui**. "[Propagation of a carbon price in a credit portfolio through macroeconomic factors](https://www.ssrn.com/abstract=4518564)," _SSRN=4518564 / arXiv:2307.12695_, 2023.
 
 #### 2021
 
@@ -24,6 +25,8 @@ I am Lionel Sopgoui, PhD student in Mathematical Finance, at [LPSM](https://www.
 #### 2024
 
 **[12th Bachelier World Congress of the Bachelier Finance Society](https://eventos.fgv.br/bachelier-2024)**, 8-12th July, "*Propagation of carbon taxes in credit portfolio through macroeconomic factors,*" FGV EMAp, Rio de Janeiro, Brazil.
+
+**[XXV Workshop on QUANTITATIVE FINANCE](https://eventi.unibo.it/qfw2024)**, April 11-13 2024, "*Impact of Climate transition on Credit portfolio's loss with stochastic collateral,*" Università di Bologna, Bologna, Italy.
 
 **[Séminaire Bachelier](http://www.bachelier-paris.fr/programme/)**, 9th February, "*Impact of climate transition on Loss Given Default with stochastic collaterals,*" Institut Henri Poincaré, Paris, France.
   
