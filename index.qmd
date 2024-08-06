@@ -10,7 +10,10 @@ I am Lionel Sopgoui, PhD student in Mathematical Finance, at [LPSM](https://www.
 
 #### 2024
 
-**Lionel Sopgoui**. "[Impact of climate transition on Loss Given Default with stochastic collaterals](https://www.ssrn.com/)," Working paper, 2023.
+**Lionel Sopgoui**. "[Impact of the carbon price on credit portfolio's loss with stochastic collateral](https://www.ssrn.com/)," Working paper, 2024.
+
+**Lionel Sopgoui**. "[Modeling the impact of Climate transition on real estate prices](https://arxiv.org/abs/2408.02339/)," arXiv:2408.02339, 2024.
+
 
 #### 2023
 
