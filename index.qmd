@@ -1,6 +1,6 @@
 ## 👋 About
 ::: {layout-ncol=2}
-![](profile.jpg)
+![](profile_.jpg)
 
 I am Lionel Sopgoui, PhD student in Mathematical Finance, at [LPSM](https://www.lpsm.paris/) of Université Paris Cité (in the Financial and Actuarial Mathematics, Numerical Probability team), [Department of Mathematics](https://www.imperial.ac.uk/mathematical-finance/) of Imperial College London (in the Mathematical Finance team)  and [Risk division](https://groupebpce.com/en/the-group/organization) at BPCE S.A. (in model validation team). **My thesis work revolves around Applications of Probability and Stochastic Control in Economic Modelling, Climate transition risk and Credit Risk.** I am co-advised by [Jean-François Chassagneux](https://perso.lpsm.paris/~chassagneux/), [Antoine (Jack) Jacquier](https://jackantoinejacquie.wixsite.com/jacquier) and [Smail Ibbou](https://www.linkedin.com/in/smail-ibbou-31a73b5/).
 :::
