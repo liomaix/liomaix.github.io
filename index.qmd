@@ -23,9 +23,15 @@ I am Lionel Sopgoui, PhD student in Mathematical Finance, at [LPSM](https://www.
 
 **Lionel Sopgoui**. "[Les essais de Paukémil, l'intrus universel](https://www.bod.fr/librairie/les-essais-de-paukemil-lionel-sopgoui-9782322274079)," _Books on demand_, 2021.
 
-## 🌍 Presentations
+## 🌍 Presentations to Conferences, Seminars \& Workshops
+
+#### 2025
+
+**[London-Oxford-Warwick Financial Mathematics Workshop](https://sites.google.com/view/london-oxford-warwick-workshop/)**, 9-10th January, "*Modeling the impact of climate transition on real estate prices,*" University of Oxford, Oxford, England.
 
 #### 2024
+
+**[9th Green Finance Research Advances](https://green-finance-research-advances-2024.org/)**, 9-10th December, "*Impact of Climate transition on Credit portfolio's loss with stochastic collateral,*" Auditorium - Banque de France, Paris, France.
 
 **[Groupe de Travail - Risques Climatiques](https://www.lpsm.paris/seminaires/gtfinanceprobanumeriques/index)**, 17th October, "*Modeling the impact of climate transition on real estate prices,*" CACIB, Montrouge, France.
 
