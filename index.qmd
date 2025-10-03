@@ -8,9 +8,9 @@ I am Lionel Sopgoui. I am currently Postdoctoral researcher in Mathematical and 
 
 ## 🚧 Ongoing workshop
 
-*Real Estate Pricing under transition risk: A Real Option Approach*, with Jean-François Chassagneux.
+- *Real Estate Pricing under transition risk: A Real Option Approach*, with Jean-François Chassagneux.
 
-*A stochastic SIRS model for cyber contagion: application to firms growth and insurance portfolio*, with Caroline Hillairet and Olivier Lopez. 
+- *A stochastic SIRS model for cyber contagion: application to firms growth and insurance portfolio*, with Caroline Hillairet and Olivier Lopez. 
 
 ## 📄 Publications
 
@@ -33,6 +33,8 @@ I am Lionel Sopgoui. I am currently Postdoctoral researcher in Mathematical and 
 ## 🌍 Talks
 
 #### 2025
+
+**[SIAM Conference on Financial Mathematics and Engineering (FM25)](https://www.siam.org/conferences-events/past-event-archive/fm25)**, 15-18th July, "*Modeling the Impact of Climate Transition on Real Estate Prices,*" Miami, Florida, U.S.
 
 **[EconophysiX seminar](https://www.econophysix.com/news)**, 8th April, "*A top down and a bottom-up approaches for financial fragility under Climate Change,*" Capital Fund Management, Paris, France.
 
