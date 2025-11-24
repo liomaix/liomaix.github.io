@@ -2,11 +2,11 @@
 ::: {layout-ncol=2}
 ![](profile_.jpg)
 
-I am Lionel Sopgoui. I am currently Postdoctoral researcher in Mathematical and Actuarial Finance, at ENSAE Paris and Institut Louis Bachelier. With [Prof. Caroline Hillairet](https://sites.google.com/site/carolinehillairet) and [Prof. Olivier Lopez](https://sites.google.com/view/sitepersonneldolivierlopez/home), we use different mathematic tools such as **Hawkes processes, contagion and epidemiological models,extreme value theory, etc.** to model and quantify cyber risks for cyber insurance.
+I am Lionel Sopgoui. I am currently Postdoctoral researcher in Mathematical and Actuarial Finance, at ENSAE Paris and Institut Louis Bachelier. With [Prof. Caroline Hillairet](https://sites.google.com/site/carolinehillairet) and [Prof. Olivier Lopez](https://sites.google.com/view/sitepersonneldolivierlopez/home), we use different mathematic tools such as **Hawkes processes, contagion and epidemiological models,extreme value theory, etc.** to model and quantify cyber risks for finance and cyber insurance. 
+Previously, I was PhD student in Mathematical Finance, at [Université Paris Cité](https://www.lpsm.paris/), at [Imperial College London](https://www.imperial.ac.uk/mathematical-finance/) and at [Risk division](https://groupebpce.com/en/the-group/organization) at BPCE S.A. **My thesis work revolves around Applications of Probability and Stochastic Control in Economic Modelling, Climate transition risk and Credit Risk.** I was co-advised by [Jean-François Chassagneux](https://perso.lpsm.paris/~chassagneux/), [Antoine (Jack) Jacquier](https://jackantoinejacquie.wixsite.com/jacquier) and [Smail Ibbou](https://www.linkedin.com/in/smail-ibbou-31a73b5/).
 :::
 
-
-## 🚧 Ongoing workshop
+## 🚧 Ongoing works
 
 - *Real Estate Pricing under transition risk: A Real Option Approach*, with Jean-François Chassagneux.
 
@@ -14,15 +14,15 @@ I am Lionel Sopgoui. I am currently Postdoctoral researcher in Mathematical and 
 
 ## 📄 Publications
 
-#### 2024
-
-**Lionel Sopgoui**. "[Impact of the carbon price on credit portfolio's loss with stochastic collateral](https://www.ssrn.com/)," Working paper, 2024.
+#### Preprints
 
 **Lionel Sopgoui**. "[Modeling the impact of Climate transition on real estate prices](https://arxiv.org/abs/2408.02339/)," arXiv:2408.02339, 2024.
 
 **Lionel Sopgoui**. "[PhD thesis: Pricing and hedging of transition risk in Credit Portfolio](https://hal.science/tel-04882729v1)," Université Paris Cité, 2024.
 
-#### 2023
+#### 2025
+
+**Lionel Sopgoui**. "[Impact of the carbon price on credit portfolio's loss with stochastic collateral](https://doi.org/10.1080/14697688.2025.2577121)," Quantitative Finance, 1–30, 2025.
 
 **Géraldine Bouveret, Jean-François Chassagneux, Smail Ibbou, Antoine Jacquier, Lionel Sopgoui**. "[Propagation of a carbon price in a credit portfolio through macroeconomic factors](https://epubs.siam.org/doi/10.1137/24M1655718)," SIAM Journal on Financial Mathematics, 16(2):545–605, 2025.
 
@@ -32,7 +32,13 @@ I am Lionel Sopgoui. I am currently Postdoctoral researcher in Mathematical and 
 
 ## 🌍 Talks
 
+### Upcoming
+
+**[Quantitative Methods in Finance 2025](https://qmf2025.exordo.com)**, 16-19th November, "*Impact of the Carbon Price on Credit Portfolio’s Loss with Stochastic Collateral,*" Sydney, Australia.
+
 #### 2025
+
+**[Séminaire "Actuariat & Finance" - IRA-ISFA-ENSAE-CNAM-ISUP](https://gains.univ-lemans.fr/fr/actualites/agenda-2025/novembre/e-seminaire-actuariat-finance.html)**, 21th November, "*A stochastic SIRS model for cyber contagion: application to firms growth and insurance portfolio,*" Le Mans, France.
 
 **[SIAM Conference on Financial Mathematics and Engineering (FM25)](https://www.siam.org/conferences-events/past-event-archive/fm25)**, 15-18th July, "*Modeling the Impact of Climate Transition on Real Estate Prices,*" Miami, Florida, U.S.
 
