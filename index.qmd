@@ -32,7 +32,7 @@ Previously, I was PhD student in Mathematical Finance, at [Université Paris Cit
 
 ## 🌍 Talks
 
-### Upcoming
+#### Upcoming
 
 **[Quantitative Methods in Finance 2025](https://qmf2025.exordo.com)**, 16-19th November, "*Impact of the Carbon Price on Credit Portfolio’s Loss with Stochastic Collateral,*" Sydney, Australia.
 
