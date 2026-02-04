@@ -34,9 +34,15 @@ Previously, I was PhD student in Mathematical Finance, at [Université Paris Cit
 
 #### Upcoming
 
-**[Quantitative Methods in Finance 2025](https://qmf2025.exordo.com)**, 16-19th November, "*Impact of the Carbon Price on Credit Portfolio’s Loss with Stochastic Collateral,*" Sydney, Australia.
+**[FINANCIAL RISKS INTERNATIONAL FORUM 2026](https://www.risks-forum.org/)**, 30-31th March, "*	A stochastic SIR model for cyber contagion: from granular growth of firms to insurance portfolio,*" Paris, France.
+
+**[Scandinavian Actuarial Conference 2026](https://sites.google.com/view/sac2026/)**, 15-16th June, "*	A stochastic SIR model for cyber contagion: from granular growth of firms to insurance portfolio,*" Stockholm, Sweden.
+
+#### 2026
 
 #### 2025
+
+**[Quantitative Methods in Finance 2025](https://qmf2025.exordo.com)**, 16-19th November, "*Impact of the Carbon Price on Credit Portfolio’s Loss with Stochastic Collateral,*" Sydney, Australia.
 
 **[Séminaire "Actuariat & Finance" - IRA-ISFA-ENSAE-CNAM-ISUP](https://gains.univ-lemans.fr/fr/actualites/agenda-2025/novembre/e-seminaire-actuariat-finance.html)**, 21th November, "*A stochastic SIRS model for cyber contagion: application to firms growth and insurance portfolio,*" Le Mans, France.
 
