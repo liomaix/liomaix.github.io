@@ -16,9 +16,13 @@ Previously, I was PhD student in Mathematical Finance, at [Université Paris Cit
 
 #### Preprints
 
+**Caroline Hillairet, Olivier Lopez, and Lionel Sopgoui**. "[A stochastic SIR model for cyber contagion: application to granular growth of firms and to insurance portfolio](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6427179)," SSRN:6427179, 2026.
+
 **Lionel Sopgoui**. "[Modeling the impact of Climate transition on real estate prices](https://arxiv.org/abs/2408.02339/)," arXiv:2408.02339, 2024.
 
 **Lionel Sopgoui**. "[PhD thesis: Pricing and hedging of transition risk in Credit Portfolio](https://hal.science/tel-04882729v1)," Université Paris Cité, 2024.
+
+####  2026
 
 #### 2025
 
@@ -35,6 +39,8 @@ Previously, I was PhD student in Mathematical Finance, at [Université Paris Cit
 #### Upcoming
 
 **[FINANCIAL RISKS INTERNATIONAL FORUM 2026](https://www.risks-forum.org/)**, 30-31th March, "*	A stochastic SIR model for cyber contagion: from granular growth of firms to insurance portfolio,*" Paris, France.
+
+**[XXVII Workshop on Quantitative Finance](https://qfw2026.unibg.it/)**, 30-31th March, "*	A stochastic SIR model for cyber contagion: from granular growth of firms to insurance portfolio,*" Bergamo, Italy.
 
 **[Scandinavian Actuarial Conference 2026](https://sites.google.com/view/sac2026/)**, 15-16th June, "*	A stochastic SIR model for cyber contagion: from granular growth of firms to insurance portfolio,*" Stockholm, Sweden.
 
