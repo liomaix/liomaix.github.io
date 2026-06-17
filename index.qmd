@@ -10,15 +10,17 @@ Previously, I was PhD student in Mathematical Finance, at [Université Paris Cit
 
 - *Real Estate Pricing under transition risk: A Real Option Approach*, with Jean-François Chassagneux.
 
-- *A stochastic SIRS model for cyber contagion: application to firms growth and insurance portfolio*, with Caroline Hillairet and Olivier Lopez. 
+- *A major-minor MFG with common jumps and impulse control for optimal cybersecurity investment*, with Caroline Hillairet. 
 
 ## 📄 Publications
 
 #### Preprints
 
-**Caroline Hillairet, Olivier Lopez, and Lionel Sopgoui**. "[A stochastic SIR model for cyber contagion: application to granular growth of firms and to insurance portfolio](https://hal.science/hal-05555552v1)," hal-05555552 , version 1 (17-03-2026).
+**Lionel Sopgoui**. "[Climate-Vulnerable Firms, Credit Supply, and Cascading Failures: An Agent-Based Model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6879501)," SSRN:6879501, 2026 *(Submitted to Economic Modelling)*.
 
-**Lionel Sopgoui**. "[Modeling the impact of Climate transition on real estate prices](https://arxiv.org/abs/2408.02339/)," arXiv:2408.02339, 2024.
+**Caroline Hillairet, Olivier Lopez, and Lionel Sopgoui**. "[A stochastic SIR model for cyber contagion: application to granular growth of firms and to insurance portfolio](https://hal.science/hal-05555552v1)," hal-05555552 , version 1 (17-03-2026) *(Submitted to Scandinavian Actuarial Journal)*.
+
+**Lionel Sopgoui**. "[Modeling the impact of Climate transition on real estate prices](https://arxiv.org/abs/2408.02339/)," arXiv:2408.02339, 2024 *(Submitted to Journal of Climate Finance)*.
 
 ####  2026
 
@@ -42,19 +44,23 @@ Previously, I was PhD student in Mathematical Finance, at [Université Paris Cit
 
 **[XIII Bachelier World Congress of the Bachelier Finance Society](https://eventi.unibo.it/bachelier)**, 29th June-3rd July, "*	A stochastic SIR model for cyber contagion: from granular growth of firms to insurance portfolio,*" Bologna, Italy.
 
-**[Scandinavian Actuarial Conference 2026](https://sites.google.com/view/sac2026/)**, 15-16th June, "*	A stochastic SIR model for cyber contagion: from granular growth of firms to insurance portfolio,*" Stockholm, Sweden.
+**[7th European Actuarial Journal Conference](www.eaj2026istanbul.org/)**, 9-11th September, "*A stochastic SIR model for cyber contagion: from granular growth of firms to insurance portfolio,*" Istanbul, Turkey.
+
+**[Mathematical Advances on Emerging Risks 2026](https://thomaspeyrat.github.io/Merida_2026.github.io/index.html)**, 15-16th June, "*	A major-minor MFG with common jumps and impulse control for optimal cybersecurity investment,*" Mexico city, Mexico.
 
 #### 2026
 
-**[FINANCIAL RISKS INTERNATIONAL FORUM 2026](https://www.risks-forum.org/)**, 30-31th March, "*	A stochastic SIR model for cyber contagion: from granular growth of firms to insurance portfolio,*" Paris, France.
+**[Scandinavian Actuarial Conference 2026](https://sites.google.com/view/sac2026/)**, 15-16th June, "*A stochastic SIR model for cyber contagion: from granular growth of firms to insurance portfolio,*" Stockholm University, Stockholm, Sweden.
 
-**[XXVII Workshop on Quantitative Finance](https://qfw2026.unibg.it/)**, 30-31th March, "*	A stochastic SIR model for cyber contagion: from granular growth of firms to insurance portfolio,*" Bergamo, Italy.
+**[FINANCIAL RISKS INTERNATIONAL FORUM 2026](https://www.risks-forum.org/)**, 30-31th March, "*A stochastic SIR model for cyber contagion: from granular growth of firms to insurance portfolio,*" Palais Brogniard, Paris, France.
+
+**[XXVII Workshop on Quantitative Finance](https://qfw2026.unibg.it/)**, 30-31th March, "*A stochastic SIR model for cyber contagion: from granular growth of firms to insurance portfolio,*" Bergamo, Italy.
 
 #### 2025
 
-**[Quantitative Methods in Finance 2025](https://qmf2025.exordo.com)**, 16-19th November, "*Impact of the Carbon Price on Credit Portfolio’s Loss with Stochastic Collateral,*" Sydney, Australia.
+**[Quantitative Methods in Finance 2025](https://qmf2025.exordo.com)**, 16-19th November, "*Impact of the Carbon Price on Credit Portfolio’s Loss with Stochastic Collateral,*" University of Technology Sydney (UTS), Sydney, Australia.
 
-**[Séminaire "Actuariat & Finance" - IRA-ISFA-ENSAE-CNAM-ISUP](https://gains.univ-lemans.fr/fr/actualites/agenda-2025/novembre/e-seminaire-actuariat-finance.html)**, 21th November, "*A stochastic SIRS model for cyber contagion: application to firms growth and insurance portfolio,*" Le Mans, France.
+**[Séminaire "Actuariat & Finance" - IRA-ISFA-ENSAE-CNAM-ISUP](https://gains.univ-lemans.fr/fr/actualites/agenda-2025/novembre/e-seminaire-actuariat-finance.html)**, 21th November, "*A stochastic SIRS model for cyber contagion: application to firms growth and insurance portfolio,*" Institut du Risque & de l'Assurance, Le Mans, France.
 
 **[SIAM Conference on Financial Mathematics and Engineering (FM25)](https://www.siam.org/conferences-events/past-event-archive/fm25)**, 15-18th July, "*Modeling the Impact of Climate Transition on Real Estate Prices,*" Miami, Florida, U.S.
 
