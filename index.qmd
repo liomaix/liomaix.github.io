@@ -16,7 +16,7 @@ I am Lionel Sopgoui. I am currently Postdoctoral researcher in Mathematical and 
 
 #### Preprints
 
-**Lionel Sopgoui**. "[Climate-Vulnerable Firms, Credit Supply, and Cascading Failures: An Agent-Based Model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6879501)," SSRN:6879501, 2026 *(Submitted to Economic Modelling)*.
+**Lionel Sopgoui**. "[Climate-Vulnerable Firms, Credit Supply, and Cascading Failures: An Agent-Based Model](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=6960020)," SSRN.6960020, 2026 *(Submitted to Economic Modelling)*.
 
 **Caroline Hillairet, Olivier Lopez, and Lionel Sopgoui**. "[A stochastic SIR model for cyber contagion: application to granular growth of firms and to insurance portfolio](https://hal.science/hal-05555552v1)," hal-05555552 , version 1 (17-03-2026) *(Submitted to Scandinavian Actuarial Journal)*.
 
