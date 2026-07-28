@@ -48,7 +48,9 @@ I am Lionel Sopgoui. I am currently Postdoctoral researcher in Mathematical and 
 
 #### 2026
 
-[**XIII Bachelier World Congress of the Bachelier Finance Society**](https://eventi.unibo.it/bachelier), 29th June-3rd July, "\* A stochastic SIR model for cyber contagion: from granular growth of firms to insurance portfolio,\*" Bologna, Italy.
+[**CEMRACS 2026**](cemracs2026.math.cnrs.fr/en/) with __Dorinel Bastide, Stéphane Crépey, Simone Pavarana, and Ryan Timeus__, 20th July - 14th August, "*Dynamic Top-Down Model for Financial Loss Distribution Under Climate, Credit & Market risks,*" CIRM Marseille, France.
+
+[**XIII Bachelier World Congress of the Bachelier Finance Society**](https://eventi.unibo.it/bachelier), 29th June-3rd July, "*A stochastic SIR model for cyber contagion: from granular growth of firms to insurance portfolio,*" Bologna, Italy.
 
 [**Scandinavian Actuarial Conference 2026**](https://sites.google.com/view/sac2026/), 15-16th June, "*A stochastic SIR model for cyber contagion: from granular growth of firms to insurance portfolio,*" Stockholm University, Stockholm, Sweden.
 
