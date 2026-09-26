@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>Research | Lionel Sopgoui</title>
+<meta name="description" content="Lionel Sopgoui, postdoctoral researcher in mathematical and actuarial finance at ENSAE Paris and Institut Louis Bachelier, working on cyber risk, climate transition risk and market microstructure.">
+<meta name="theme-color" content="#0b2433">
+<meta property="og:title" content="Research | Lionel Sopgoui">
+<meta property="og:description" content="Lionel Sopgoui, postdoctoral researcher in mathematical and actuarial finance at ENSAE Paris and Institut Louis Bachelier, working on cyber risk, climate transition risk and market microstructure.">
+<meta property="og:image" content="https://liomaix.github.io/profile_.jpg">
+<meta name="twitter:card" content="summary_large_image">
+<link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 32 32'><rect width='32' height='32' rx='7' fill='%231b8a8f'/><path d='M5 24 L11 21 L11 14 L17 12 L21 13 L21 6 L27 5' stroke='white' stroke-width='2.4' fill='none' stroke-linecap='round' stroke-linejoin='round'/></svg>">
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Instrument+Sans:wght@400;600&family=Newsreader:ital,opsz,wght@0,6..72,400;0,6..72,500;0,6..72,600;1,6..72,400&display=swap" rel="stylesheet">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.css">
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/katex.min.js"></script>
+<script defer src="https://cdn.jsdelivr.net/npm/katex@0.16.11/dist/contrib/auto-render.min.js"
+  onload="renderMathInElement(document.body,{delimiters:[{left:'\\[',right:'\\]',display:true},{left:'\\(',right:'\\)',display:false}],throwOnError:false})"></script>
+<link rel="stylesheet" href="style.css">
+</head>
+<body>
+<a class="skip" href="#main">Skip to content</a>
+<header class="site-header">
+  <div class="wrap">
+    <a class="brand" href="index.html"><svg viewBox="0 0 32 32" aria-hidden="true"><rect width="32" height="32" rx="7" fill="#1b8a8f"/><path d="M5 24 L11 21 L11 14 L17 12 L21 13 L21 6 L27 5" stroke="#fff" stroke-width="2.4" fill="none" stroke-linecap="round" stroke-linejoin="round"/><path d="M11 21 L11 14 M21 13 L21 6" stroke="#e5a53a" stroke-width="2.6" stroke-linecap="round"/></svg>Lionel Sopgoui</a>
+    <button class="menu-btn" aria-expanded="false" aria-controls="nav">Menu</button>
+    <nav class="nav" id="nav" aria-label="Main"><a href="about.html">About</a><a href="research.html" aria-current="page">Research</a><a href="publications.html">Publications</a><a href="talks.html">Talks</a><a href="teaching.html">Teaching</a><a href="cv.html">CV</a></nav>
+  </div>
+</header>
+<div class="band page-head">
+  <svg class="paths" data-n="5" aria-hidden="true"></svg>
+  <div class="wrap"><h1>Research</h1><p>Stochastic models for emerging risks, the climate transition and financial markets.</p></div>
+</div>
+<main id="main" class="wrap">
+  <section>
+    <h2>Themes</h2>
+    <div class="topics rows">
+      <div class="topic row wide t-cyber"><div><h3>Cyber Risk</h3><p>Stochastic multi-group SIR models coupled with granular firm growth to measure the impact of cyber epidemics on firms and insurance portfolios, and major–minor mean-field games in which firms choose their cybersecurity investment against a strategic ransomware group.</p></div>
+        <div class="eqs"><div class="eq">\[\frac{\mathrm{d}I_{k,t}}{\mathrm{d}t}=-\gamma_{k,t}I_{k,t}+Y_t\sum_{j=k}^{K}jS_{j,t}\,b_{jk,t}\]<small>Infected firms of size k (Scandinavian Actuarial Journal, 2026)</small></div><div class="eq">\[J_d(H_0,z)=\mathbb{E}^{\mathbb{Q}}\Big[U_d\Big(L^\star_T-L_T-\int_0^T\big(c_1Az_t+\tfrac{c_2}{2}(Az_t)^2+A\pi_t\big)\,\mathrm{d}t\Big)\Big]\]<small>Defender’s objective in the major–minor mean-field game (ongoing work)</small></div></div></div>
+      <div class="topic row wide t-climate"><div><h3>Climate Transition Risk</h3><p>How a carbon price and global warming propagate to firm values, collateral, credit losses and bank equity, from closed-form credit models to agent-based economies with cascading failures.</p></div>
+        <div class="eqs"><div class="eq">\[\mathrm{LGD}^n_t=(1-\gamma)\,\mathbb{E}\Big[\Big(1-(1-k)\,e^{-ra}\frac{C^n_{t+a}}{\mathrm{EAD}^n_t}\Big)^{+}\,\Big|\,V^n_t\lt D^n_t,\,\mathcal{G}_t\Big]\]<small>Loss given default with stochastic collateral (Quantitative Finance, 2025)</small></div><div class="eq">\[\pi^i_t=e^{-\gamma(T_t-T_0)}\nu^i_tK^i_t-(\omega^i_t+r^i_t)K^i_t-\tfrac{\chi}{2}\tfrac{(I^i_t)^2}{\bar K_{t-1}}-\big(y^i_tK^i_t-E^{i,\mathrm{target}}_t\big)\delta_t\]<small>Firm profit under physical and transition risk (agent-based model, 2026)</small></div></div></div>
+      <div class="topic row t-micro"><div><h3>Market Microstructure</h3><p>Price formation and liquidity in limit order books, market making and optimal execution, and statistical and learning-based trading strategies.</p></div>
+        <div class="eqs"><div class="eq">\[r_t=S_t-q_t\,\gamma\,\sigma^2\,(T-t)\]<small>Reservation price of an inventory-averse market maker</small></div><div class="eq">\[\lambda^{\pm}(\delta)=A\,e^{-k\,\delta}\]<small>Execution intensity of a quote at distance δ</small></div></div></div>
+    </div>
+  </section>
+  <section>
+    <h2>Ongoing work</h2>
+    <ul class="entries">
+      <li class="t-climate" data-topics="climate"><span class="entry-title">Real estate pricing under transition risk: a real option approach</span><span class="meta">With Jean-François Chassagneux.</span><span class="chips"><span class="chip t-climate">Climate Transition Risk</span></span></li>
+      <li class="t-cyber" data-topics="cyber"><span class="entry-title">A major–minor MFG with common jumps and impulse control for optimal cybersecurity investment</span><span class="meta">With Caroline Hillairet.</span><span class="chips"><span class="chip t-cyber">Cyber Risk</span></span></li>
+    </ul>
+  </section>
+  <section class="prose">
+    <h2>Applied projects</h2>
+    <ul class="plain">
+      <li><strong>Trading algorithms on stocks and cryptocurrencies.</strong> Statistical-arbitrage strategies implemented in Python and deployed through the Interactive Brokers and Binance APIs.</li>
+      <li><strong>Deep and reinforcement learning for option pricing and hedging.</strong> Estimating Black–Scholes option values and hedging strategies with modern learning methods.</li>
+      <li><strong>Economic conditions and stock-market performance.</strong> Regression analyses linking the S&amp;P 500 to inflation, unemployment and interest rates.</li>
+      <li><strong>Machine learning on DAX and EURO STOXX futures.</strong> Statistical inference and learning-based trading strategies.</li>
+    </ul>
+  </section>
+</main>
+<footer class="site-footer">
+  <div class="wrap">
+    <nav aria-label="Elsewhere">
+      <a href="https://www.ensae.fr/">ENSAE Paris</a>
+      <a href="https://www.institutlouisbachelier.org/">Institut Louis Bachelier</a>
+      <a href="https://scholar.google.com/citations?user=rdoDR00AAAAJ&hl=en">Google Scholar</a>
+      <a href="https://github.com/liomaix">GitHub</a>
+      <a href="https://uk.linkedin.com/in/lionel-sopgoui">LinkedIn</a>
+      <a href="mailto:maixent.sopgoui@outlook.com">maixent.sopgoui@outlook.com</a>
+    </nav>
+    <span>© 2026 Lionel Sopgoui</span>
+  </div>
+</footer>
+<script src="main.js"></script>
+</body>
+</html>
